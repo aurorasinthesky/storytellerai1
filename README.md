@@ -1,1 +1,5 @@
-# storytellerai1
+streamlit
+openai
+fpdf2
+pillow
+requests
